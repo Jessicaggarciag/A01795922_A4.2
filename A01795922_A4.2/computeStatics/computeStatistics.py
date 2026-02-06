@@ -29,7 +29,7 @@ def calculate_stats(data):
 
 def read_data(file_name):
     """Lee los datos del archivo en la carpeta 'archivos'."""
-    input_path = os.path.join("archivos", file_name)
+    input_path = os.path.join("computeStatics/archivos", file_name)
     numbers = []
     try:
         with open(input_path, 'r', encoding='utf-8') as file:
@@ -47,9 +47,9 @@ def read_data(file_name):
 
 def save_results(results_text):
     """Guarda los resultados en la carpeta 'salidas'."""
-    if not os.path.exists("salidas"):
-        os.makedirs("salidas")
-    output_path = os.path.join("salidas", "StatisticsResults.txt")
+    if not os.path.exists("computeStatics/salidas"):
+        os.makedirs("computeStatics/salidas")
+    output_path = os.path.join("computeStatics/salidas", "StatisticsResults.txt")
     with open(output_path, "w", encoding="utf-8") as out_file:
         out_file.write(results_text)
 
@@ -87,3 +87,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
