@@ -1,0 +1,7 @@
+Resultados para: fileWithData.txt
+Media: 246.65734375
+Mediana: 249.95
+Moda: 10.0
+Varianza: 19153.217085700016
+Desviación Estándar: 138.39514834595906
+Tiempo: 0.0048 seg
