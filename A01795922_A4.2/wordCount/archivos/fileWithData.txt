@@ -1,0 +1,108 @@
+¿Qué es Python?
+Python es un lenguaje de programación orientado a objetos de alto nivel y fácil de interpretar con una sintaxis fácil de leer. Ideal para crear prototipos y tareas ad hoc, Python tiene un amplio uso en computación científica, desarrollo web y automatización. Como lenguaje de programación para principiantes de uso general, Python es compatible con muchos de los principales científicos informáticos y desarrolladores de aplicaciones a nivel mundial.
+
+¿Quieres escuchar un patrocinio de celebridades? Peter Norvig, director de investigación de Google: "Python ha sido una parte importante de Google desde el principio, y sigue siendo así a medida que el sistema crece y evoluciona".
+
+Es importante entender todos los aspectos de Python como un lenguaje de programación de código abierto. Hablaremos sobre el desarrollo de Python, las bibliotecas de Python, así como sobre la historia y las tendencias futuras. Sigue leyendo para envolver tu mente en torno a este elegante e increíble idioma.
+
+Por qué los desarrolladores deben aprender Python
+Python es el primer lenguaje de muchos programadores nuevos. En un curso universitario de informática, por lo general es el primero introducido. ¿Por qué?
+
+Por un lado, Python es legible. A veces, incluso está cerca del inglés: con un poco de conocimiento del idioma, puedes mirar el código y tener una idea de lo que está tratando de hacer.
+
+Esto contrasta con otros lenguajes de aplicación de su generación, lo que podría ser más confuso. Ejemplo de Python para imprimir "Hola, mundo!" en la consola de una computadora.
+
+Copia el fragmento del código
+Copied to ClipboardError: Could not Copy
+print("Hello, world!")
+Python te obliga a escribir código limpio
+En contraste con la mayoría de los otros lenguajes de desarrollo, el código Python depende de la sangría. En resumen, debe agregar espacios a las líneas de código dentro de un bloque de código determinado de una manera específica y predecible. De lo contrario, el código no se ejecutará.
+
+Esto puede frustrar a los nuevos programadores de Python! Para un principiante, la sintaxis de Python puede ser frustrante a veces. Pero después de alguna práctica con el lenguaje, la mayoría viene a jurar por él. Debido a que su código obedece a una lógica visual predecible, se vuelve más fácil de leer, tanto para otros programadores que pueden encontrarse con su trabajo como para usted en el futuro.
+
+Python es popular, especialmente en ciencia de datos e IA
+Un lenguaje podría ser el más legible del mundo y aún así morir olvidado. Muchos campos de la informática son como concursos de popularidad: las herramientas más populares a menudo terminan siendo la mejor opción para el trabajo.
+
+Los lenguajes populares tienen una mayor selección de bibliotecas, lo que ahorra a un desarrollador increíbles cantidades de tiempo y esfuerzo. Los idiomas populares también tienden a tener más tutoriales y documentación, por lo que será más probable que encuentre soluciones a sus problemas.
+
+Y si tiene algún interés en la ciencia de datos o el aprendizaje automático, no busque más. Python es la mejor opción de las industrias de IA y ciencia de datos. Esto garantiza prácticamente su supervivencia.
+
+Breve historia de Python
+En 1989, Guido van Rossum trabajaba en un laboratorio de informática en los Países Bajos. Decidió escribir un lenguaje que mejorara las fallas de los más populares de su tiempo. Cinco años y medio después lo lanzó, llamándolo "Python" después de "Monty Python's Flying Circus", un programa de comedia británico que le gustaba.
+
+Al principio fue lento, pero Python tuvo un gran descanso cuando un joven Google anunció que usaba Python para muchos procesos internos.
+
+En 2005 Python lanzó Django, un marco para la creación de aplicaciones web. Django explotó en popularidad y llegó a desafiar el entonces dominante marco de Ruby on Rails.
+
+En 2011, Python fue el lenguaje más enseñado en los programas de ciencias de la computación en todo el país. Unos años más tarde se convirtió en el estándar de facto para los investigadores en los campos de aprendizaje automático e inteligencia artificial, probablemente debido a su facilidad de uso y legibilidad.
+
+Mientras que von Rossum se coronó a sí mismo como el "dictador benévolo" de Python durante muchos de sus primeros años, el desarrollo de Python ahora es manejado por la Python Software Foundation.
+
+Con su estatus consolidado por los campos más vanguardistas de nuestro tiempo, el futuro de Python se ve brillante!
+
+¿Qué puedes construir con Python?
+Como lenguaje de propósito general, la respuesta es: ¡casi cualquier cosa! Python sobresale cuando tienes una tarea compleja que necesitas simplificar, un script corto para ejecutar o un conjunto de datos grande que necesitas manipular.
+
+Scripts sencillos para automatizar flujos de trabajo
+Rascadores web para recoger datos de Internet
+Binarios independientes (es decir, aplicaciones) mediante Py Installer
+Aplicaciones web y API de REST de alta potencia con Flask o Django
+Programas de aprendizaje automático e inteligencia artificial
+"Código de pegamento" que conecta el software en diferentes idiomas
+Aplicaciones comerciales que gestionan el dinero
+Desarrollo de software de código abierto
+¡Esa es solo la punta del iceberg! El lenguaje Python de programación se utiliza activamente en todos los dominios de la informática contemporánea. Debido a que el desarrollo de los Python es más eficiente que en la mayoría de los otros lenguajes, es una opción popular entre las empresas emergentes donde los cambios en la base de código deben realizarse de forma rápida y barata.
+
+También es un éxito entre científicos y matemáticos, con una serie de potentes bibliotecas internas para estadísticas y cálculos matemáticos complejos.
+
+Bibliotecas de Python populares
+Las bibliotecas de paquetes son un servicio esencial para cualquier lenguaje de programación moderno. Sin ellos, cada codificador tendría que escribir su propio software para las tareas más rutinarias y comunes.
+
+Afortunadamente, Python tiene una gran selección de paquetes para todas sus necesidades de programación. Puede consultarlos en Índice de paquetes de Python. Algunas bibliotecas all-star escritas en Python se enumeran a continuación:
+
+Beautiful Soup es un raspador de HTML súper cargado, que permite a un desarrollador extraer datos de la web a escala
+Flask y Django, mencionados brevemente anteriormente, proporcionan un desarrollo web increíblemente rápido tanto para casos de uso simples como complejos
+NumPy y Matplotlib permiten visualizaciones de datos sencillas e impresionantes
+PyTorch para el aprendizaje automático de primera clase
+¿Qué es el desarrollo de aplicaciones web Python?
+Las aplicaciones de Python para la web suelen estar construidas en dos plataformas principales, Flask y Django. El matraz es más simple, más limpio y más fácil para los principiantes. Django tiene más características y puede escalar a un gran número de usuarios.
+
+Si usted viene de un fondo JavaScript, Flask es a Django lo que Express es a Nest.
+
+¿Qué es el matraz?
+Más específicamente, Flask es un "marco microweb". Es mucho más pequeño que su herramienta promedio llena de texto fijo. No requiere bibliotecas ni componentes externos y se crea completamente en Python básico. Sin embargo, puede mezclar fácilmente en herramientas de terceros para aumentar la eficacia.
+
+Flask está diseñado para el desarrollo rápido de aplicaciones. Es ideal para crear prototipos de una nueva idea antes de desarrollarla más completamente en un marco más grande como Django.
+
+¿Qué es Django?
+¿Qué tan popular es Django, el marco web más popular de Python?
+
+Instagram, el gigante de las redes sociales, escaló a un millón de usuarios en Django. Actualmente es utilizado por Pinterest, Udemy, Spotify y Dropbox. Así de popular. Django es un marco de código abierto "para perfeccionistas con plazos", según sus documentos. Es multiplataforma y funciona igual de bien en Windows y Mac.
+
+Django está construido sobre un modelo MVC, abreviatura de Model-Viewer-Controller. MVC es un patrón especial en ciencias de la computación, cuyo objetivo es separar las preocupaciones de una aplicación web en sus tres componentes separados.
+
+Cuando un cliente envía una solicitud, primero golpea el controlador, que maneja el tráfico de diferentes solicitudes entrantes. Transfiere ese tráfico a diferentes modelos, que manejan los datos y la lógica de la solicitud. A continuación, el modelo exporta esa respuesta al visor, que presenta la presentación de los datos al cliente.
+
+Esto hace que sea un marco simple y tolerante a fallos. Django sobresale con la ampliación en tamaño y complejidad como resultado.
+
+Python para ciencia de datos
+La fortaleza principal de Python es la ciencia de datos y el aprendizaje automático. ¿Cómo puede empezar a trabajar en estos campos innovadores?
+
+Es probable que desee comenzar familiarizándose con las herramientas más populares en el espacio. Uno de ellos es Jupyter Notebooks, donde encontrarás recorridos virtuales interactivos de algoritmos y bibliotecas de ciencia de datos.
+
+Otra es Anaconda, una plataforma donde los científicos de datos comparten su trabajo. Este es otro gran lugar para encontrar guías e instrucciones sobre cómo comenzar su aventura en ciencia de datos.
+
+Probablemente la biblioteca más importante para la ciencia de datos en Python se conoce como pandas. Una tarea esencial para un científico de datos es limpiar los datos que utilizará y los pandas hacen que esto sea mucho más fácil. También cuenta con un conjunto de herramientas para ayudar en la manipulación y análisis de datos.
+
+La IA y la ciencia de datos solo seguirán creciendo en popularidad, ¡así que comenzar a aprender estas herramientas ahora es una gran opción!
+
+¿Dónde puede un desarrollador aprender Python?
+Como la mayoría de los otros temas relacionados con la tecnología, es fácil y gratuito aprender Python viendo videos tutoriales en YouTube. Estamos viviendo en una época dorada de contenido tutorial en línea gratuito. Brad Traversy es una figura destacada en el campo, pero hay una selección casi infinita de instructores para elegir.
+
+Una vez que aprendas los conceptos básicos, prueba tus conocimientos con algunos ejercicios. Aquí también hay muchas opciones. El exercismo es un gran recurso para un programador que busca agudizar sus talentos. El exercismo ofrece desafíos específicos con mentores y pruebas divertidas utilizando la línea de comandos.
+
+Si quieres profundizar en la ciencia de datos, prueba Kaggle. La mayoría de los científicos de datos en línea juran por la plataforma como el recurso más importante.
+
+¿Qué opinas sobre el uso de Python en GitHub? A pesar de que hay muchas fuentes para usar y aprender Python, por ejemplo, libros de referencia en línea, tutoriales en video y sitios web, los desarrolladores también pueden contar GitHub como una fuente confiable para aprender Python.
+
+Por último, la mejor manera de aprender cualquier lenguaje de programación, a largo plazo, es construir algo significativo con él. ¡Pruebe a crear un raspador web, una API simple o un script de automatización!
