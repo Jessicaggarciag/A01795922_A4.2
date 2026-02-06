@@ -55,9 +55,9 @@ def read_data(file_path):
 
 def save_results(content):
     """Guarda los resultados en la carpeta 'salidas'."""
-    if not os.path.exists("salidas"):
-        os.makedirs("salidas")
-    out_path = os.path.join("salidas", "ConvertionResults.txt")
+    if not os.path.exists("convertNumbers/salidas"):
+        os.makedirs("convertNumbers/salidas")
+    out_path = os.path.join("convertNumbers/salidas", "ConvertionResults.txt")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(content)
 
@@ -94,3 +94,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
